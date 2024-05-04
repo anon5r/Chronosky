@@ -1,4 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+ChronoSky
+===
+
+**Chrono** + Blue**sky**
+
+Blueskyへの予約投稿アプリ。指定日時に自動投稿します。
+
+# このアプリケーションについて
+
+以下の機能を提供します
+
+- 指定日時にポストしたい投稿の日時予約
+- 予約投稿の管理および編集を行う為のインターフェース
+- 予約投稿の編集およびキャンセル
+
+以下の機能は提供されません
+
+- 定型文を定期的に繰り返し投稿する機能
 
 ## Getting Started
 

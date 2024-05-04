@@ -1,0 +1,18 @@
+{
+	"name": "chronosky",
+	"version": "0.0.0",
+	"private": true,
+	"scripts": {
+		"deploy": "wrangler deploy",
+		"dev": "wrangler dev",
+		"start": "wrangler dev",
+		"cf-typegen": "wrangler types"
+	},
+	"devDependencies": {
+		"@atproto/api": "^0.12.7",
+		"@cloudflare/workers-types": "^4.20240423.0",
+		"typescript": "^5.0.4",
+		"wrangler": "^3.0.0"
+	},
+	"packageManager": "yarn@3.6.3+sha256.08ead1821a257416e6f217e89365425bf4b6d2430c3279318bedcec1a245fff5"
+}
